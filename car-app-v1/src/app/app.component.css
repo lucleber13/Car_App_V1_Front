@@ -14,7 +14,13 @@
 }
 
 mat-toolbar {
-  background: #7270D3;
+  background: #8074E2;
   color: #FFE5E5;
+}
+
+.name-logo{
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 10px;
 }
 
